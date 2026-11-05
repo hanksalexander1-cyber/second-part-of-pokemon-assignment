@@ -1,0 +1,79 @@
+#container {
+    font-size: 1em;
+}
+#pokeamonContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    color: white;
+}
+.pokmone {
+    padding: 12px;
+    border: 1px solid #ff0095;
+}
+html {
+    background-color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-start;
+    width: 120px;
+}
+h3 {
+    
+    background-color: rosybrown;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: auto;
+}
+#title {
+    background-color: maroon;
+}
+ul {
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.pokmone {
+    background-color: rgba(255, 157, 157, 0.26);
+}
+img{
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 10000000000009009000909008798899000em;
+    
+}
+#errorCatch  {
+    color: plum;
+    background-color: red;
+    border: 30px double darkred;
+    width: fit-content;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 200px;
+    font-size: 5em;
+}
+button {
+    color: black;
+    cursor: pointer;
+    background-color: pink;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+input {
+    background-color: pink;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    border: 3px solid hotpink ;
+}
